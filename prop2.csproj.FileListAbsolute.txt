@@ -1,0 +1,40 @@
+D:\ProyectoPIS2\prop2\prop2\bin\Debug\prop2.exe.config
+D:\ProyectoPIS2\prop2\prop2\bin\Debug\prop2.exe
+D:\ProyectoPIS2\prop2\prop2\bin\Debug\prop2.pdb
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.csproj.AssemblyReference.cache
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.Properties.Resources.resources
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.csproj.GenerateResource.cache
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.csproj.CoreCompileInputs.cache
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.exe
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.pdb
+D:\ProyectoPIS2\prop2\prop2\obj\Debug\prop2.Form1.resources
+D:\9semestre\agentes inteligentes\prop2\prop2\bin\Debug\prop2.exe.config
+D:\9semestre\agentes inteligentes\prop2\prop2\bin\Debug\prop2.exe
+D:\9semestre\agentes inteligentes\prop2\prop2\bin\Debug\prop2.pdb
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.csproj.AssemblyReference.cache
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.Form1.resources
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.Properties.Resources.resources
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.csproj.GenerateResource.cache
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.csproj.CoreCompileInputs.cache
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.exe
+D:\9semestre\agentes inteligentes\prop2\prop2\obj\Debug\prop2.pdb
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\bin\Debug\prop2.exe.config
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\bin\Debug\prop2.exe
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\bin\Debug\prop2.pdb
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.csproj.AssemblyReference.cache
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.Form1.resources
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.Properties.Resources.resources
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.csproj.GenerateResource.cache
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.csproj.CoreCompileInputs.cache
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.exe
+C:\Users\messi\Desktop\LABERINTO\LABERINTO\prop2\obj\Debug\prop2.pdb
+C:\Users\messi\Desktop\LABERINTO\prop2\bin\Debug\prop2.exe.config
+C:\Users\messi\Desktop\LABERINTO\prop2\bin\Debug\prop2.exe
+C:\Users\messi\Desktop\LABERINTO\prop2\bin\Debug\prop2.pdb
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.csproj.AssemblyReference.cache
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.Form1.resources
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.Properties.Resources.resources
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.csproj.GenerateResource.cache
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.csproj.CoreCompileInputs.cache
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.exe
+C:\Users\messi\Desktop\LABERINTO\prop2\obj\Debug\prop2.pdb
